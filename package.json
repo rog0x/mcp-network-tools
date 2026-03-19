@@ -1,0 +1,20 @@
+{
+  "name": "@rog0x/mcp-network-tools",
+  "version": "1.0.0",
+  "description": "Network diagnostics tools for AI agents via MCP",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["mcp", "network", "diagnostics", "dns", "ssl", "whois", "ping"],
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.0.0"
+  }
+}
