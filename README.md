@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-network-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-network-tools)
+
 # mcp-network-tools
 
 Network diagnostics tools for AI agents, exposed via the [Model Context Protocol (MCP)](https://modelcontextprotocol.io).
